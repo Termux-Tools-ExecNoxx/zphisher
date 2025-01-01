@@ -1,0 +1,7 @@
+Social Media Phishing Tool ✅
+
+apt update && apt upgrade
+apt install git
+git clone https://github.com/htr-tech/zphisher.git
+cd zphisher
+bash zphisher.sh
